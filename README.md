@@ -14,13 +14,13 @@ This API was built as a tool to get song links from other platforms by providing
 1. Clone the repository
 
     ```
-    git clone <>
+    git clone https://github.com/calebmarquart/MusicLinkAPI.git
     ```
 
 2. Install dependencies
 
     ```
-    cd musiclinkapi
+    cd MusicLinkAPI
     npm ci
     ```
 
